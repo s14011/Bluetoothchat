@@ -1,4 +1,4 @@
-package com.example.android.bluetoothchat;
+package jp.ac.std.s14011.bluetoothchat;
 
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
