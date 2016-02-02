@@ -31,7 +31,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="306386ae-311c-4790-a933-0cfe35f4988f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshots/1-launch.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshots/2-devices.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshots/3-chat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/screenshots/icon-web.png" afterPath="" />
     </list>
     <ignored path="BluetoothChat.iws" />
     <ignored path=".idea/workspace.xml" />
